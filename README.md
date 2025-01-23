@@ -14,4 +14,4 @@ Este é um projeto simples que desenvolvi no início da minha jornada no desenvo
 
 Este projeto foi construído com foco em aprendizado e aprimoramento das bases de front-end. Fique à vontade para explorar e deixar feedbacks!
 
-Link do projeto: 
+[Link do projeto](https://juschivinscki.github.io/Login/)
